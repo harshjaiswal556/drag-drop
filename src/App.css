@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 20px;
+}
+
+td {
+  padding: 15px;
+  border: 1px solid #ddd
+}
+
+th {
+
+  padding: 8px;
+  background-color: #9f9f9f;
+  cursor: move;
+}
+
+table {
+  width: 350px;
+}
